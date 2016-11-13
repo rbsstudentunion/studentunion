@@ -58,11 +58,12 @@ display: line;
     font-size: 20px;
     display: block;
     opacity: 0.75;
-    width: 100%;
+    width: 70%;
     text-align: center;
     padding-top: 25px;
     line-height: 3em;
     z-index: 25;
+    margin: auto;
     h1{
         color: $theme-color;
         font-size:75px;
