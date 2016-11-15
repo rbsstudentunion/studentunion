@@ -245,7 +245,8 @@ object-fit: contain;
     text-align: center;
 }
 
-.fixed {
-    position: fixed;
-    top: 0;
+.main-nav-scrolled {
+  position: fixed;
+
+  top: 0;
 }
