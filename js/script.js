@@ -1,16 +1,20 @@
-jQuery(document).ready(function() {
 
-	var navOffset = jQuery("site-header").offset().top;
-
-	jQuery(window).scroll(function() {
-		var scrollPos = jQuery(window).scrollTop();
-	
-		if (scrollPos >= navOffset) {
-			jQuery("site-header").addClass("fixed");
-		}	else {
-			jQuery("site-header").removeClass("fixed");
-
-	});
-
-
+$(document).ready(function() {
+var stickyNavTop = $('.site-header').offset().top;
+ 
+var stickyNav = function(){
+var scrollTop = $(window).scrollTop();
+      
+if (scrollTop > stickyNavTop) { 
+    $('.site-header').addClass('fixed');
+} else {
+    $('.site-header').removeClass('fixed'); 
+}
+};
+ 
+stickyNav();
+ 
+$(window).scroll(function() {
+  stickyNav();
+});
 });
