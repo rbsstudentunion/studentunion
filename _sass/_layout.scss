@@ -55,33 +55,12 @@ height: 40px;
 }
 }
 
-@media only screen and (max-width: 409px) {
-    .site-header {
-border-top: 1px solid $grey-color-light;
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
-opacity: 0.75;
-margin-bottom: 25px;
-left:0px;
-top:0px;
-height:168px;
-width:100%;
-z-index: 50;
-    }   
-.site-header {
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    background-color: #fff;
-    opacity: 0.75;
-    margin-bottom: 25px;
-    left: 0px;
-    top: 0px;
-    height: 40px;
-    width: 100%;
-    z-index: 50;
-}
-
-}
+@media only screen and (max-width: 467px) {
+    .dropbtn {
+    padding: 12px 7px;
+    font-size: 10px;
+    }
+    }
 
 
 .site-title {
