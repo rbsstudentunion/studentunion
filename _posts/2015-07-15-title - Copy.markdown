@@ -1,33 +1,13 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: The Official Home of the Student Union is Live
+date: 2016-11-17 12:00:00
+
+tag: 
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
-{% raw  %}
-{% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
+The alpha version of the webpage is live.
 
-Produces something like this: 
+From now on, our blog as well as all information will be available here.
 
-{% highlight c++ %}
-
-int main(int argc, char const *argv[])
-{
-	string myString;
-
-	cout << "input a string: ";
-	getline(cin, myString);
-	int length = myString.length();
-	
-	char charArray = new char * [length];
-
-	charArray = myString;
-	for(int i = 0; i < length; ++i){
-		cout << charArray[i] << " ";
-	}
-	
-	return 0;
-}
-
-{% endhighlight %}
+Yours,
+Student Union
