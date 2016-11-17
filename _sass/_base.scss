@@ -24,7 +24,7 @@ $caption_font_size: 12px;
 $caption_color: #aaa;
 
 /* COLORS  */
-$red:  #FF3636;
+$red:  #900028;
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
@@ -130,7 +130,7 @@ a {
     }
     */
     &:hover {
-        color: $theme-color;
+        color: #900028;
         text-decoration: none;
     }
 }
