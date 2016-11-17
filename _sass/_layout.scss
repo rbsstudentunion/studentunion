@@ -42,6 +42,12 @@ z-index: 50;
 
 }
 
+@media only screen and (max-width: 590px) {
+.dropbtn {
+    padding: 12px 8px;
+    font-size: 12px;
+}
+
 @media only screen and (max-width: 409px) {
     .site-header {
 border-top: 1px solid $grey-color-light;
@@ -55,7 +61,18 @@ height:168px;
 width:100%;
 z-index: 50;
     }   
-
+.site-header {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    opacity: 0.75;
+    margin-bottom: 25px;
+    left: 0px;
+    top: 0px;
+    height: 40px;
+    width: 100%;
+    z-index: 50;
+}
 
 }
 
