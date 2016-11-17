@@ -287,6 +287,9 @@ object-fit: contain;
 .drop:hover, .dropdown:hover .dropbtn {
     background-color: #f1f1f1;
 }
+.dropbtn:hover {
+    background-color: #f1f1f1;
+}
 
 li.dropdown {
     display: inline-block;
