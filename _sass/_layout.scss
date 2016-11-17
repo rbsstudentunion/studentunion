@@ -42,10 +42,14 @@ z-index: 50;
 
 }
 
-@media only screen and (max-width: 590px) {
+@media only screen and (max-width: 518px) {
 .dropbtn {
     padding: 12px 8px;
     font-size: 12px;
+        }
+.site-header {
+height: 40px;
+}
 }
 
 @media only screen and (max-width: 409px) {
