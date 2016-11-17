@@ -15,7 +15,13 @@
           {% endif %}
         {% endfor %}
 
-<script src="js/script.js"></script>
+<script src="jquery.js"></script>
+<script src="jquery.sticky.js"></script>
+<script>
+  $(document).ready(function(){
+    $("#sticker").sticky({topSpacing:0});
+  });
+</script>
 
         </div>
       </div>
