@@ -1,20 +1,23 @@
-<!DOCTYPE html>
-<html>
+<header class="site-header">
 
-  {% include head.html %}
+  <div class="wrapper">
 
-  <body>
+    <nav class="site-nav">
 
+      <div class="trigger" style="vertical-align:middle; ">
+        <!-- {{ site.title }} instead of blog -->
+        <div class="linki">
+        <a class="page-link" href="{{ site.baseurl }}/categories.html">Categories</a>
+        <a class="page-link" href="{{ site.baseurl }}/merchandise.html">Merchandise</a>
+        <a class="page-link" href="{{ site.baseurl }}/students.html">For Students</a>
+        <a class="page-link" href="{{ site.baseurl }}/companies.html">For Companies</a>
+        <a class="page-link" href="{{ site.baseurl }}/about.html">About</a>
+<script src="js/script.js"></script>
 
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <h1 class="soon">COMING SOON</h1>
+        </div>
       </div>
-    </div>
+    </nav>
 
-{% include footer.html %}
-  </body>
+  </div>
 
-</html>
+</header>
