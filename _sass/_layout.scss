@@ -61,7 +61,12 @@ height: 40px;
     font-size: 10px;
     }
     }
-
+@media only screen and (max-width: 409px) {}
+.dropbtn {
+    padding: 12px 6px;
+    font-size: 8px;
+}
+}
 
 .site-title {
 font-size: 20px;
