@@ -2,7 +2,7 @@
 layout: post
 title: The Official Home of the Student Union is Live
 date: 2016-11-17 12:00:00
-tag: other
+category: [Other, News]
 ---
 
 <img src="{{ site.baseurl }}/img/post/slogo.png" class="img">
