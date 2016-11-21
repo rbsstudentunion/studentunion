@@ -31,6 +31,7 @@ z-index: 50;
     }   
 .dropbtn {
     padding: 14px 10px;
+    font-weight: 600;
     }
 
 }
@@ -39,6 +40,7 @@ z-index: 50;
 .dropbtn {
     padding: 14px 8px;
     font-size: 14px;
+    font-weight: 600;
     }
 
 }
@@ -47,6 +49,7 @@ z-index: 50;
 .dropbtn {
     padding: 12px 8px;
     font-size: 12px;
+    font-weight: 600;
         }
 .site-header {
 height: 40px;
@@ -60,12 +63,14 @@ height: 40px;
     .dropbtn {
     padding: 12px 7px;
     font-size: 10px;
+    font-weight: 600;
     }
     }
 @media only screen and (max-width: 409px) {
 .dropbtn {
     padding: 12px 6px;
     font-size: 8px;
+    font-weight: 600;
 }
 }
 
