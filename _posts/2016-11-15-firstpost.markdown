@@ -2,7 +2,7 @@
 layout: post
 title: a post with code
 date: 2015-07-15 15:09:00
-categories: [News, Other]
+tag: [News, Other]
 ---
 This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
 {% raw  %}
