@@ -340,7 +340,7 @@ li.dropdown {
 @media screen and (max-width: 980px) {
 
 .a2a_floating_style {
-    background-color:inherit;
+    background-color:transparent
 
     }
 .site-footer {
@@ -350,6 +350,9 @@ li.dropdown {
     }
 }
 
+.disqus-footer__wrapper {
+    
+}
 .disqus-footer__wrapper {
 opacity: 0;
 }
