@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+<div class="header-bar">
+  <h1><a href="{{ site.baseurl }}"><img src="img/logo.png" class="logo"></h1>
+  
+</div>
+
+<div class="smooth" style="height: 56px;">
+ {% include header.html %}
+</div>
+
+<main>
+
+    <h1>{{ page.tag }}</h1>
+
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li>
+    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+    </main>
+
+
+
+
+
+
+
+      </div>
+    </div>
+
+{% include footer.html %}
+  </body>
+
+</html>
+
