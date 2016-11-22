@@ -393,7 +393,7 @@ font-size: $caption_font_size;
 @media screen and (max-width: 980px) {
 
 .a2a_floating_style {
-    background-color:transparent
+    background-color:transparent !important;
 
     }
 .site-footer {
