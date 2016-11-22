@@ -337,3 +337,14 @@ li.dropdown {
     padding-left: 20px;
 }
 
+@media screen and (max-width: 980px) {
+
+.a2a_floating_style {
+    opacity: 0;
+    }
+.site-footer {
+    border-top: 12px solid #333;
+    font-size: 16px;
+    line-height: normal;
+    }
+}
