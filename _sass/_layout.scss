@@ -41,6 +41,7 @@ z-index: 50;
 .dropbtn {
     padding: 14px 8px;
     font-size: 14px;
+    font-weight: 600;
     }
 }
 
@@ -62,6 +63,18 @@ z-index: 50;
 
 }
 
+@media only screen and (max-width: 467px) {
+    .dropbtn {
+    padding: 14px 7px;
+    font-size: 10px;
+    font-weight: 600;
+    }
+
+.site-header {
+height: 48px;
+}
+    }
+
 @media only screen and (max-width: 427px) {
 .dropbtn {
     padding: 14px 8px;
@@ -76,13 +89,7 @@ height: 40px;
 }
 }
 
-@media only screen and (max-width: 467px) {
-    .dropbtn {
-    padding: 14px 7px;
-    font-size: 10px;
-    font-weight: 600;
-    }
-    }
+
 @media only screen and (max-width: 354px) {
 .dropbtn {
     padding: 14px 6px;
