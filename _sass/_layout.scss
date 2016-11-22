@@ -53,6 +53,15 @@ z-index: 50;
 
 }
 
+@media only screen and (max-width: 504px) {
+.dropbtn {
+    padding: 14px 6px;
+    font-size: 12px;
+    font-weight: 600;
+    }
+
+}
+
 @media only screen and (max-width: 427px) {
 .dropbtn {
     padding: 14px 8px;
