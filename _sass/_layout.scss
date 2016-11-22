@@ -394,7 +394,7 @@ font-size: $caption_font_size;
 
 .a2a_floating_style {
     background-color:transparent !important;
-    padding: 0 2px;
+    padding: 0 2px !important;
 
     }
 .site-footer {
@@ -403,3 +403,15 @@ font-size: $caption_font_size;
     line-height: normal;
     }
 }
+
+#disqus_thread {
+     position: relative;
+}
+#disqus_thread:after {
+     content: "";
+     display: block;
+     height: 55px;
+     width: 100%;
+     position: absolute;
+     bottom: 0;
+     background: white;
