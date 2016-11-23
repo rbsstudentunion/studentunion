@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Official Home of the Student Union is Live
-date: 2016-11-17 12:00:00
+date: 2016-11-23 12:00:00
 tag: [News, Other]
 ---
 
