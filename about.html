@@ -1,74 +1,16 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title: about
+---
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
-
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
- <script
-  src="https://code.jquery.com/jquery-3.1.1.js"
-  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
-  crossorigin="anonymous"></script>
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-         
-      		<div class="header-bar">
+<div class="header-bar">
   <h1><a href="{{ site.baseurl }}"><img src="img/logo.png" class="logo"></h1>
   
 </div>
 
- <header class="site-header">
+ {% include header.html %}
+<img src="img/about.jpg" class="covers">
 
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger" style="vertical-align:middle; ">
-        <!-- {{ site.title }} instead of blog -->
-        <div class="linki">
-        <li class="dropdown">
-    <a class="dropbtn">Categories</a>
-    <div class="dropdown-content">
-      <a href="{{ site.baseurl }}/tags/News/index.html" class="drops">News</a>
-      <a href="{{ site.baseurl }}/tags/Events/index.html" class="drops">Events</a>
-      <a href="{{ site.baseurl }}/tags/RBSStories/index.html" class="drops">RBS Stories</a>
-      <a href="{{ site.baseurl }}/tags/Other/index.html" class="drops">Other</a>
-      </li>
-        <a class="dropbtn" href="{{ site.baseurl }}/merchandise.html">Merchandise</a>
-        <a class="dropbtn" href="{{ site.baseurl }}/students.html">For Students</a>
-        <a class="dropbtn" href="{{ site.baseurl }}/companies.html">For Companies</a>
-        <a class="dropbtn" href="{{ site.baseurl }}/about.html">About</a>
-<script src="{{ site.baseurl }}/js/script.js"></script>
-
-        </div>
-      </div>
-    </nav>
-
-  </div>
-
-</header>
- 
- 	</div>
- 	<div class="covers">
-	</div>
-	<div class="wrapper">
 <div class=atstarpe></div>
 
 <p>RBS Student Union stands for the interests of all Riga Business School students. We are building a strong community of leaders with the vision to leave a positive impact on society, boost its prosperity and create an influential, intelligent network between students, the University and its Alumni.</p>
@@ -76,16 +18,3 @@
 <div class=atstarpe></div>
 
 <p>The members of the Student Union are leaded by a Presidential Couple and the Board - the main operational structure of SU. The students work voluntarily in four divisions: Education, Culture, External Relations and PR. Community is the Union's most valuable asset; therefore, every opinion matters. Together we create an encouraging in and out-of-classroom environment for successful future entrepreneurs and leaders in the world of business.</p>
-
-
-
-      </div>
-    </div>
-
-
-  </body>
-
-</html>
-
-
-
