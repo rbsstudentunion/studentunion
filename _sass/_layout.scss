@@ -488,3 +488,16 @@ width: 100%;
  .col-md-4, .col-sm-4, .col-xs-12 {
     margin-bottom: 20px;
  }
+
+ @media screen and (max-width: 900px) {
+
+ .vidkreisi {
+margin-left: 10%;
+margin-right: 16%;
+
+ }
+
+.vidlabi {
+    margin-left: 16%;
+    margin-right: 10%;
+}
