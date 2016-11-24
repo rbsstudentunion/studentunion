@@ -470,3 +470,18 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.dropbtn1 {
+    display: inline-block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+
+.dropbtn1:hover {
+    background-color: #f1f1f1;
+    left:auto;
+    right:0;
+}
