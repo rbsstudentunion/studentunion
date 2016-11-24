@@ -436,6 +436,11 @@ font-size: $caption_font_size;
 .col-md-4, .col-sm-4, .col-xs-12 {
     float: left;
     width: 33.33%;
+    margin-left: -5%;
+    margin-right: -5%;
+    padding-left: 5%;
+    padding-right: 5%;
+
 }
 
 .img-circle {
