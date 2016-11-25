@@ -507,3 +507,10 @@ margin-bottom: 0px;
 word-wrap: break-word;
 width: 100%;
 }
+
+ @media screen and (max-width: 450px) {
+.bruh {
+    margin-left: 38%;
+    margin-right: 38%;
+}
+}
