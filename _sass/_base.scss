@@ -32,9 +32,9 @@ $lime_green: #B7D12A;
 $purple: #B509AC;
 
 
-$grey-color-dark: #333;   /* footer */
-$grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$grey-color-dark: #000;   /* footer */
+$grey-color-light: #000;  /* navigation bar border */
+$text-color:     #000;
 
 /* Set theme color *************************/
 $theme-color:   $red;
@@ -49,7 +49,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 100;
+    font-weight: 200;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -493,3 +493,4 @@ tr:nth-child(even) {
     left:auto;
     right:0;
 }
+
