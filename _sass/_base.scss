@@ -277,11 +277,12 @@ object-fit: contain;
 
 .dropbtn {
     display: inline-block;
-    color: #666;
+    color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     line-height: 1.5em;
+    font-weight: 200;
 }
 
 .drop:hover, .dropdown:hover .dropbtn {
@@ -303,6 +304,7 @@ li.dropdown {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     line-height: 1.5em;
+
 }
 
 .dropdown-content a {
@@ -481,11 +483,13 @@ tr:nth-child(even) {
 
 .dropbtn1 {
     display: inline-block;
-    color: #666;
+    color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     line-height: 1.5em;
+    font-weight: 200;
+
 }
 
 .dropbtn1:hover {
