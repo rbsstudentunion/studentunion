@@ -550,6 +550,9 @@ width: 100%;
     margin-left: 33%;
     margin-right: 33%;
 }
+.emails {
+    word-wrap: normal;
+}
 }
 
  @media screen and (max-width: 1000px) {
@@ -563,6 +566,7 @@ width: 100%;
 }
 .emails {
     font-size: 11pt;
+    word-wrap: normal;
 }
 }
 
@@ -577,6 +581,7 @@ width: 100%;
 }
 .emails {
     font-size: 9pt;
+    word-wrap: normal;
 }
 }
 
