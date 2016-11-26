@@ -514,3 +514,17 @@ width: 100%;
     margin-right: 38%;
 }
 }
+
+ @media screen and (max-width: 1000px) {
+
+.title {
+    font-size: 15pt;
+}
+.pplinfo {
+    font-size: 11pt;
+}
+.email {
+    font-size: 11pt;
+}
+}
+
