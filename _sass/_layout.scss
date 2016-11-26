@@ -519,6 +519,7 @@ width: 100%;
 
 .title {
     font-size: 15pt;
+    margin-bottom: 5px;
 }
 .pplinfo {
     font-size: 11pt;
@@ -528,3 +529,16 @@ width: 100%;
 }
 }
 
+ @media screen and (max-width: 620px) {
+
+.title {
+    font-size: 12pt;
+    margin-bottom: 4px;
+}
+.pplinfo {
+    font-size: 9pt;
+}
+.email {
+    font-size: 9pt;
+}
+}
