@@ -589,6 +589,10 @@ width: 100%;
     position: relative;
 }
 
+.dropdown1 {
+    position: relative;
+}
+
 .dropdown-content1 {
     display: none;
     position: absolute;
@@ -610,6 +614,18 @@ width: 100%;
 
 .dropdown-content1 a:hover {background-color: #f1f1f1}
 
-.dropdown:hover .dropdown-content {
+.dropdown1:hover .dropdown-content1 {
     display: block;
+}
+
+.drop1:hover, .dropdown1:hover .dropbtn1 {
+    background-color: #f1f1f1;
+}
+.dropbtn1:hover {
+    background-color: #f1f1f1;
+}
+
+li.dropdown1 {
+    display: inline-block;
+    line-height: 1.5em;
 }
