@@ -33,12 +33,21 @@ z-index: 50;
     padding: 14px 10px;
     font-weight: 600;
     }
+    .dropbtn1 {
+    padding: 14px 10px;
+    font-weight: 600;
+    }
 
 }
 
 @media only screen and (max-width: 619px) {
 
 .dropbtn {
+    padding: 14px 8px;
+    font-size: 14px;
+    font-weight: 600;
+    }
+    .dropbtn1 {
     padding: 14px 8px;
     font-size: 14px;
     font-weight: 600;
@@ -51,7 +60,11 @@ z-index: 50;
     font-size: 13px;
     font-weight: 600;
     }
-
+.dropbtn1 {
+    padding: 14px 7px;
+    font-size: 13px;
+    font-weight: 600;
+    }
 }
 
 @media only screen and (max-width: 504px) {
@@ -60,7 +73,11 @@ z-index: 50;
     font-size: 12px;
     font-weight: 600;
     }
-
+.dropbtn1 {
+    padding: 14px 6px;
+    font-size: 12px;
+    font-weight: 600;
+    }
 }
 
 @media only screen and (max-width: 468px) {
@@ -69,7 +86,11 @@ z-index: 50;
     font-size: 10px;
     font-weight: 600;
     }
-
+.dropbtn1 {
+    padding: 14px 7px;
+    font-size: 10px;
+    font-weight: 600;
+    }
 .site-header {
 height: 48px;
 }
@@ -86,6 +107,11 @@ height: 48px;
 
 @media only screen and (max-width: 427px) {
 .dropbtn {
+    padding: 14px 7px;
+    font-size: 9px;
+    font-weight: 600;
+        }
+        .dropbtn1 {
     padding: 14px 7px;
     font-size: 9px;
     font-weight: 600;
@@ -110,10 +136,20 @@ height: 48px;
     font-size: 8px;
     font-weight: 600;
 }
+.dropbtn1 {
+    padding: 14px 6px;
+    font-size: 8px;
+    font-weight: 600;
+}
 }
 
 @media only screen and (max-width: 354px) {
 .dropbtn {
+    padding: 14px 5px;
+    font-size: 7px;
+    font-weight: 600;
+}
+.dropbtn1 {
     padding: 14px 5px;
     font-size: 7px;
     font-weight: 600;
