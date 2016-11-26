@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RBS Stories: Mārtiņš Šmits
+title: RBS Stories - Mārtiņš Šmits
 date: 2016-11-26 20:00:00
 tag: [RBSStories]
 ---
