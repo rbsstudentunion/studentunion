@@ -12,18 +12,7 @@ Thanks you Daniels Neguliners for saving these moments.
 
 Until next year!
 
-<!--START JUICEBOX EMBED-->
-<script src="jbcore/juicebox.js"></script>
-<script>
-new juicebox({
-containerId: "juicebox-container",
-galleryWidth: "100%",
-galleryHeight: "100%",
-backgroundColor: "#222222"
-});
-</script>
-<div id="juicebox-container"></div>
-<!--END JUICEBOX EMBED-->
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1064009853728124.1073741852.387660018029781%26type%3D3&width=500" width="auto" height="733" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 <iframe src="//embedsocial.com/facebook_album/album_photos/1064009853728124" width="900" height="1500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0"></iframe>
 
