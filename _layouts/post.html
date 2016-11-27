@@ -19,14 +19,6 @@ layout: default
    }(document, 'script', 'facebook-jssdk'));
 </script> 
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1148829568516007";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="header-bar">
   <h1><a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/img/logo.png" class="logo"></h1>
@@ -91,7 +83,7 @@ layout: default
 }
 </style>
 
-<div class="fb-comments" data-href="{{ site.baseurl }}/{{ page.path }}" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://peerkons.github.io {{ site.baseurl }} / {{ page.path }}" data-numposts="5"></div>
 
 
 <div id="disqus_thread"></div>
