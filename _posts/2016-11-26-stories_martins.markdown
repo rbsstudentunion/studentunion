@@ -2,7 +2,7 @@
 layout: post
 title: RBS Stories - Mārtiņš Šmits
 date: 2016-11-26 20:00:00
-tag: [RBSStories]
+tag: [RBS Stories]
 ---
 
 <img src="{{ site.baseurl }}/img/post/martins.jpg" class="img">

@@ -13,5 +13,4 @@ Thanks you Daniels Neguliners for saving these moments.
 Until next year!
 
 <iframe src="//embedsocial.com/facebook_album/album_photos/1064009853728124" width="900" height="1500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-<iframe src="http://albumizr.com/a/5cw" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
