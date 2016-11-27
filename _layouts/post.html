@@ -74,7 +74,7 @@ layout: default
 }
 </style>
 
-<div class="fb-comments" data-href="<?php the_permalink() ?>" data-numposts="5"></div>
+<div class="fb-comments" data-href="{{ page.path | prepend:site.baseurl }}" data-numposts="5"></div>
 
 
 <div id="disqus_thread"></div>
