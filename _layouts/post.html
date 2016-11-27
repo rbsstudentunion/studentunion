@@ -66,7 +66,42 @@ layout: default
 </style>
 
 
+  <!-- Babcom: Decentral Anonymous Spamresistant comments on Static Websites.
 
+    Copyright: 2014 Arne Babenhauserheide (http://draketo.de) You are free
+    to use this under any license you chose. If you want to be nice,
+    release your changes under free software licenses.  -->
+    <style type="text/css">
+    #babcom-realcomments, #babcom-publicsoneid iframe {
+      /*width: 1024px;
+      height: 400px;*/
+      width: 1024px;
+      height: 100px;
+      border: solid thin black;
+    }
+    #babcom-needsfreenet {
+      width: 1024px;
+      height: 300px;
+      margin-bottom: -1em;
+      border: solid thin black;
+    }
+    #babcom-needsfreenet p, #babcom-needsfreenet blockquote {
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+    </style>
+    <!-- TODO: Save the node in a cookie -->
+    <p><button type="button" onclick="loadcomments()">Reload Comments</button> Use Node: <input type="text" name="babcom-node" id="babcom-node" value="http://127.0.0.1:8888" /></p>
+    <div id="babcom-needsfreenet"><blockquote><strong>⚙ Babcom is trying to load the comments ⚙</strong></blockquote>
+    <p>This textbox will disappear when the comments have been loaded.</p>
+    <p>If the box below shows an error-page, you need to install <a href="http://freenetproject.org">Freenet</a> with the <a href="http://freesocial.draketo.de/sone_en.html">Sone-Plugin</a> or set the node-path to your freenet node and click the <tt>Reload Comments</tt> button (or return).</p>
+<p>If you see something like <code>Invalid key: java.net.MalformedURLException: There is no @ in that URI! (Sone/search.html)</code>, you need to setup <a href="http://freesocial.draketo.de/sone_en.html">Sone</a> and the <a href="http://freesocial.draketo.de/wot_en.html">Web of Trust</a></p></div>
+    <p id="babcom-comments"></p>
+    <p id="babcom-nojswarning">If you had Javascript enabled, you would see comments for this page instead of the Sone page of the sites author.</p>
+    <iframe id="babcom-publicsoneid" src="http://127.0.0.1:8888/Sone/viewSone.html?sone=6~ZDYdvAgMoUfG6M5Kwi7SQqyS-gTcyFeaNN1Pf3FvY"></iframe>
+    <p><em>Note: To make a comment which isn’t a reply visible to others here, include a link to this site somewhere in the comment text.</em></p>
+    <p>Link to this site: <span id="babcom-sitelink"></span></p>
+    <script type="text/javascript" src="babcom.js"></script>
 
 
 <div id="disqus_thread"></div>
