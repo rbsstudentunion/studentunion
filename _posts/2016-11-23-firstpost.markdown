@@ -5,7 +5,9 @@ date: 2016-11-23 12:00:00
 tag: [News, Other]
 ---
 
-<img src="{{ site.baseurl }}/img/post/slogo.png" class="img">
+<div class=contactbilzuks>
+<img src="img/about.jpg" class="covers">
+</div>
 
 The alpha version of the webpage is live.
 
