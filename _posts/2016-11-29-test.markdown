@@ -1,0 +1,8 @@
+---
+layout: post
+title: Test
+date: 2016-11-29 20:00:00
+tag: [Events]
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=n5u8lv0qa9sa4fjb4j8rv5ec0g%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=Europe%2FRiga" style="border-width:0" width="auto" height="600" frameborder="0" scrolling="no"></iframe>
