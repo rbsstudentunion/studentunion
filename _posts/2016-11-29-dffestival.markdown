@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #DFFestival 2016
+title: Digital Freedom Festival 2016
 date: 2016-11-29 20:00:00
 tag: [Events]
 ---
