@@ -5,7 +5,7 @@ date: 2016-11-29 20:00:00
 tag: [Events]
 ---
 
-Today we marked the end of the first <a href="https://www.facebook.com/DigitalFreedomFestival/?hc_ref=SEARCH&fref=nf">Digital Freedom Festival</a>. The students of RBS volunteered there and had a blast! We saw many well-known speakers and celebrities from our own President (not to be mistaken with the President of the SU) and ending with Marvin Liao from 500 Startups, Dan Taylor from Heisenberg Media, and more!
+Today we marked the end of the first <a href="https://www.facebook.com/DigitalFreedomFestival/?hc_ref=SEARCH&fref=nf">Digital Freedom Festival</a>. The students of RBS volunteered there and had a blast! We saw many well-known speakers and celebrities, starting from our own President (not to be mistaken with the President of the SU) and ending with Marvin Liao from 500 Startups, Dan Taylor from Heisenberg Media, and others!
 
 See how it went below!
 
