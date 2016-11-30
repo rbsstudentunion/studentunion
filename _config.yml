@@ -11,15 +11,6 @@ twitter_username: twitter_username
 github_username:  github_username
 
 
-# Site settings
-title: CURLS BEFORE GIRLS
-description: "Your go-to place for Bodybuilding and Fitness related content!"
-url: "https://peerkons.github.io/curlsbeforegirls/"
-author:
-  name: "Pauls Perkons"
-  email: "thunderpuls@gmail.com"
-  url: "https://peerkons.github.io/curlsbeforegirls/"
-
 # Build settings
 markdown: kramdown
 
