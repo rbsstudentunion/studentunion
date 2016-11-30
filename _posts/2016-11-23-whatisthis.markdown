@@ -17,7 +17,7 @@ What you can expect:
 
 -Information regarding events and guest lectures that you might find interesting
 
-- *Hopefully* * you will be able to find information about merchandise and buy some goodies
+*Hopefully* * you will be able to find information about merchandise and buy some goodies
 
 And much, much more!
 
