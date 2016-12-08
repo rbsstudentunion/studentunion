@@ -2,7 +2,7 @@
 layout: post
 title: A milestone is reached.
 date: 2016-12-07 20:00:00
-tag: [Other]
+tag: [Other, News]
 ---
 
 <img src="https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/15338871_1078208438974932_1811857268141787242_n.jpg?oh=c74cd909723b76cab645247fbf5388de&oe=58F89041" class="img" >
