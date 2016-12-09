@@ -156,6 +156,19 @@ height: 48px;
 }
 }
 
+@media only screen and (max-width: 315px) {
+.dropbtn {
+    padding: 14px 4px;
+    font-size: 6px;
+    font-weight: 600;
+}
+.dropbtn1 {
+    padding: 14px 4px;
+    font-size: 6px;
+    font-weight: 600;
+}
+}
+
 .site-title {
 font-size: 20px;
 line-height: $nav-height;
