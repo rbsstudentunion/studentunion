@@ -3,8 +3,8 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-top: 1px solid #000;
-border-bottom: 1px solid #000;
+border-top: 2px solid #333;
+border-bottom: 2px solid #333;
 background-color: #fff;
 opacity: 1;
 margin-bottom: 25px;
@@ -18,8 +18,8 @@ z-index: 50;
 
 @media only screen and (max-width: 649px) {
     .site-header {
-border-top: 1px solid #000;
-border-bottom: 1px solid #000;
+border-top: 2px solid #300;
+border-bottom: 2px solid #300;
 background-color: #fff;
 opacity: 1;
 margin-bottom: 25px;
@@ -335,7 +335,7 @@ font-size: 18px;
 }
 .post-meta {
 font-size: $small-font-size;
-color: #000;
+color: #333;
 margin-bottom: 0px; 
 }
 .post-link {

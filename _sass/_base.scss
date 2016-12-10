@@ -32,9 +32,9 @@ $lime_green: #B7D12A;
 $purple: #B509AC;
 
 
-$grey-color-dark: #000;   /* footer */
-$grey-color-light: #000;  /* navigation bar border */
-$text-color:     #000;
+$grey-color-dark: #333;   /* footer */
+$grey-color-light: #333;  /* navigation bar border */
+$text-color:     #333;
 
 /* Set theme color *************************/
 $theme-color:   $red;
@@ -277,7 +277,7 @@ object-fit: contain;
 
 .dropbtn {
     display: inline-block;
-    color: #000;
+    color: #333;
     text-align: center;
     padding: 14px 8px;
     text-decoration: none;
@@ -483,7 +483,7 @@ tr:nth-child(even) {
 
 .dropbtn1 {
     display: inline-block;
-    color: #000;
+    color: #333;
     text-align: center;
     padding: 14px 8px;
     text-decoration: none;
