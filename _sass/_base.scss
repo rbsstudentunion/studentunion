@@ -528,7 +528,7 @@ tr:nth-child(even) {
 .bottlex:hover {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     cursor: pointer;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 
@@ -599,4 +599,14 @@ tr:nth-child(even) {
     padding: 2px 16px;
     background-color: #900028;
     color: white;
+}
+
+.merch-bilde {
+    mergin-right: 50%;
+    width: 50%;
+}
+
+.merch-teksts {
+    mergin-left: 50%;
+    width: 50%;
 }
