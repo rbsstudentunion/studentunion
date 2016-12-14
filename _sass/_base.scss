@@ -602,9 +602,14 @@ tr:nth-child(even) {
 .modal-body {padding: 2px 16px;}
 
 .modal-footer {
-    padding: 2px 16px;
     background-color: #900028;
     color: white;
+    position: absolute;
+    bottom: 0;
+    width: 644px;
+    height: 20px;
+    margin: 0 auto;
+}
 }
 
 .merch-bilde {
