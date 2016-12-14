@@ -514,3 +514,12 @@ tr:nth-child(even) {
     margin-right: 20% !important;
     width: 60% !important; 
 }
+
+@media (max-width: 500px) {
+
+.bottlez {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important; 
+}
+}
