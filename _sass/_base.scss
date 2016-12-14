@@ -560,3 +560,12 @@ tr:nth-child(even) {
     text-decoration: none;
     cursor: pointer;
 }
+
+.bottlex {
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.bottlex:hover {
+    opacity: 0.7;
+}
