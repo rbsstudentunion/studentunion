@@ -525,10 +525,17 @@ tr:nth-child(even) {
 }
 }
 
+.bottlex:hover {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    z-index: 1 !important; /* Sit on top */
     padding-top: 100px; /* Location of the box */
     left: 0;
     top: 0;
