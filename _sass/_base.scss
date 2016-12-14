@@ -726,5 +726,9 @@ transform: translateY(-50%);
 
 .hoverred:hover {
     color: #900028;
-    
+
+}
+
+@media all and (max-width: 900px) {
+    display: none;
 }
