@@ -524,6 +524,7 @@ tr:nth-child(even) {
 }
 }
 
+/* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -559,24 +560,4 @@ tr:nth-child(even) {
     color: black;
     text-decoration: none;
     cursor: pointer;
-}
-
-.bottlex {
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-.bottlex:hover {
-    opacity: 0.7;
-}
-
-/* Add Animation */
-@-webkit-keyframes animatetop {
-    from {top: -300px; opacity: 0} 
-    to {top: 0; opacity: 1}
-}
-
-@keyframes animatetop {
-    from {top: -300px; opacity: 0}
-    to {top: 0; opacity: 1}
 }
