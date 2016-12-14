@@ -515,7 +515,7 @@ tr:nth-child(even) {
     width: 60% !important; 
 }
 
-@media (max-width: 500px) {
+@media only screen and (max-width: 500px) {
 
 .bottlez {
     margin-left: 0 !important;
