@@ -599,7 +599,10 @@ tr:nth-child(even) {
     color: white;
 }
 
-.modal-body {padding: 2px 16px;}
+.modal-body {padding: 2px 16px;
+    position: relative;
+    height: 100%;
+}
 
 .modal-footer {
     background-color: #900028;
