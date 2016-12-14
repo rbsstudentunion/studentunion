@@ -644,6 +644,10 @@ tr:nth-child(even) {
   max-width: 1000px;
   position: relative;
   margin: auto;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+
 }
 
 /* Next & previous buttons */
