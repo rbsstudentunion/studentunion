@@ -61,7 +61,7 @@ window.onclick = function(event) {
 
 //bilde merch
 
-var slideIndex = 0;
+var slideIndex = 1;
 showSlides(slideIndex);
 
 function plusSlides(n) {
