@@ -26,7 +26,6 @@ $(window).scroll(function() {
 // Get the modal
 var modal = document.getElementById('myModal');
 
-var modal1 = document.getElementById('smallModal');
 // Get the button that opens the modal
 var btn = document.getElementById("myBtn");
 
@@ -34,16 +33,10 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
-if (screen.width >900) {
+
   document.getElementById("myBtn").onclick = function() {
     modal.style.display = "block";
-
-}
-else {
-  document.getElementById("myBtn").onclick = function() {
-    modal1.style.display = "block";
-
-}
+  }
 
 
 
