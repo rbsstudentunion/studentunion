@@ -37,12 +37,12 @@ var span = document.getElementsByClassName("close")[0];
 if (screen.width >900) {
   document.getElementById("myBtn").onclick = function() {
     modal.style.display = "block";
-}
+
 }
 else {
   document.getElementById("myBtn").onclick = function() {
     modal1.style.display = "block";
-}
+
 }
 
 
