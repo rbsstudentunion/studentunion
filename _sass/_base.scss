@@ -757,4 +757,17 @@ transform: translateY(-50%);
 
     }
 
- 
+ /* The Close Button */
+.bigclose {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.bigclose:hover,
+.bigclose:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
