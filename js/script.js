@@ -76,8 +76,8 @@ function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1} 
-  if (n < 1) {slideIndex = slides.length}
+  if (n > 5) {slideIndex = 0} 
+  if (n < 0) {slideIndex = 5}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none"; 
   }
