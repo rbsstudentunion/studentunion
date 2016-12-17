@@ -5,7 +5,7 @@ date: 2016-12-11 20:00:00
 tag: [RBS Stories]
 ---
 
-<img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/15380353_1085104278285348_7862457129402771836_n.jpg?oh=a795ec04ac39d8f724800434df4ae797&oe=58AF1B99" class="img" >
+<img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/15380353_1085104278285348_7862457129402771836_n.jpg?oh=a795ec04ac39d8f724800434df4ae797&oe=58AF1B99" class="img" alt="RBS Stories Elza" title="RBS Stories Elza" >
 
 How to stay positive during a stress-filled week of studies?
 
