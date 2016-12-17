@@ -26,8 +26,11 @@ The pre-orders are up until next Wednesday, December 21, so grab one for You, on
 You can order the bottle by:
 
 • Writing us on Facebook
+
 • Messaging any of the board members
+
 • Writing us at student.union@rbs.lv
+
 • At www.studentunion.co/merchandise
 
 Drink responsibly.
