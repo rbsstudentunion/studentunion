@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merchadise: RBS Bottles
+title: Merchadise - RBS Bottles
 date: 2016-12-17 20:00:00
 tag: [News]
 ---
