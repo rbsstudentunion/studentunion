@@ -2,6 +2,9 @@
 title: Student Union
 timezone: UTC
 collections:
+  merchandise:
+    title: Merchandise
+    output: true
   posts:
     title: Posts
     output: true
