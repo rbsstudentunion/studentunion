@@ -2,10 +2,6 @@
 title: Student Union
 timezone: UTC
 collections:
-  poetry:
-    title: Poetry
-    output: true
-    permalink: "/poetry/:path/"
   portfolio:
     title: Portfolio
     output: true
