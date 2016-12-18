@@ -1,8 +1,9 @@
 ---
-layout: post
 title: RBS Stories - Elza Priede
-date: 2016-12-11 20:00:00
-tag: [RBS Stories]
+date: 2016-12-11 20:00:00 Z
+tags:
+- RBS Stories
+layout: post
 ---
 
 <img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/15380353_1085104278285348_7862457129402771836_n.jpg?oh=a795ec04ac39d8f724800434df4ae797&oe=58AF1B99" class="img" alt="RBS Stories Elza" title="RBS Stories Elza" >

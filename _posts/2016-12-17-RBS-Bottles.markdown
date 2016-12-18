@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Merchadise - RBS Bottles
-date: 2016-12-17 20:00:00
-tag: [News]
+date: 2016-12-17 20:00:00 Z
+tags:
+- News
+layout: post
 ---
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/vwMYTxEbKpk" frameborder="0" allowfullscreen></iframe>

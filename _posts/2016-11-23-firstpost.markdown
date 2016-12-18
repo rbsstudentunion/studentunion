@@ -1,8 +1,10 @@
 ---
-layout: post
 title: The Official Home of the Student Union is Live
-date: 2016-11-23 12:00:00
-tag: [News, Other]
+date: 2016-11-23 12:00:00 Z
+tags:
+- News
+- Other
+layout: post
 ---
 
 <img src="{{ site.baseurl }}/img/about.jpg" class="covers">

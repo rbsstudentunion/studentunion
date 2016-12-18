@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Techchill is looking for volunteers!
-date: 2016-12-06 20:00:00
-tag: [Events]
+date: 2016-12-06 20:00:00 Z
+tags:
+- Events
+layout: post
 ---
 
 TechChill, or "...the oldest, loudest and coolest annual startup and tech insider event in Latvia" as they define themselves, is looking for volunteers for their annual event.

@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Thanksgiving 2016
-date: 2016-11-26 20:00:00
-tag: [Events]
+date: 2016-11-26 20:00:00 Z
+tags:
+- Events
+layout: post
 ---
 
 Coming together, telling stories, and showing each other gratitude. These are the main values of Thanksgiving. Of course RBS shares all of them!
