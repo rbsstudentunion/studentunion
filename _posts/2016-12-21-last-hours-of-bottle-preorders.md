@@ -1,11 +1,10 @@
 ---
-title: 'Last hours of Bottle preorders!'
-date: 2016-12-21 17:00:00
+title: Last hours of Bottle preorders!
+date: 2016-12-21 17:00:00 Z
 tags:
-  - News
+- News
 layout: post
 ---
-
 
 A reminder for everyone - today is the last day for the RBS Bottle preorders.
 
