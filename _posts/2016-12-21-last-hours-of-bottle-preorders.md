@@ -1,11 +1,10 @@
 ---
-title: 'Last hours of Bottle preorders!'
-date: 2016-12-21 17:00:00
+title: Last hours of Bottle preorders!
+date: 2016-12-21 17:00:00 Z
 tags:
-  - News
+- News
 layout: post
 ---
-
 
 ![Bottle flip](/uploads/versions/bottle-flip---x----480-270x---.gif)
 
