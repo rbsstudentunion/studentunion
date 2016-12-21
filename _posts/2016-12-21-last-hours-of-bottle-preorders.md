@@ -6,7 +6,6 @@ tags:
 layout: post
 ---
 
-
 A reminder for everyone - today is the last day for the RBS Bottle preorders.
 
 (You can order the bottle by:
