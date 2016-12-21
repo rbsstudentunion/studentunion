@@ -1,8 +1,24 @@
 ---
-title: Last hours of Bottle preorders!
-date: 2016-12-17 20:00:00 Z
+title: 'Last hours of Bottle preorders!'
+date: 2016-12-21 17:00:00
 tags:
-- News
+  - News
 layout: post
 ---
 
+
+A reminder for everyone - today is the last day for the RBS Bottle preorders.
+
+(You can order the bottle by:
+<br>• Writing us on Facebook
+<br>• Messaging any of the board members
+<br>• Writing us at student.union@rbs.lv
+<br>• At www.studentunion.co/merchandise )
+
+However, even if you can't make it by the end of today, no one should drink their favorite Christmas drink from a regular plastic cup.
+
+Therefore, we are kind enough to offer you the bottle for 10 Eur tomorrow at the Christmas party, before it goes on sale for the full price (12 Eur).
+
+See you at the party! We are completely flipping out about it!
+
+&lt;iframe src="//giphy.com/embed/ILyQ8KqLk5Xi0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="http://giphy.com/gifs/ILyQ8KqLk5Xi0"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
