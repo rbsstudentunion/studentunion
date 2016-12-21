@@ -1,10 +1,11 @@
 ---
-title: Last hours of Bottle preorders!
-date: 2016-12-21 17:00:00 Z
+title: 'Last hours of Bottle preorders!'
+date: 2016-12-21 17:00:00
 tags:
-- News
+  - News
 layout: post
 ---
+
 
 ![](/uploads/versions/giphy-2---x----480-270x---.gif)
 
