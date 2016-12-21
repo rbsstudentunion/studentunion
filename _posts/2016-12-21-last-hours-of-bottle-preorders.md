@@ -21,5 +21,3 @@ However, even if you can't make it by the end of today, no one should drink thei
 Therefore, we are kind enough to offer you the bottle for 10 Eur tomorrow at the Christmas party, before it goes on sale for the full price (12 Eur).
 
 See you at the party! We are completely flipping out about it!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fe4EK4HSPkI" frameborder="0" allowfullscreen></iframe>
