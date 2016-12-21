@@ -1,12 +1,13 @@
 ---
-title: Last hours of Bottle preorders!
-date: 2016-12-21 17:00:00 Z
+title: 'Last hours of Bottle preorders!'
+date: 2016-12-21 17:00:00
 tags:
-- News
+  - News
 layout: post
 ---
 
-![](/uploads/versions/giphy-2---x----480-270x---.gif)
+
+![Bottle flip](/uploads/versions/giphy-2---x0-0-416-234-480-270x---.gif)
 
 A reminder for everyone - today is the last day for the RBS Bottle preorders.
 
