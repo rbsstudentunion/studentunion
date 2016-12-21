@@ -6,6 +6,7 @@ tags:
 layout: post
 ---
 
+
 A reminder for everyone - today is the last day for the RBS Bottle preorders.
 
 (You can order the bottle by:
@@ -20,4 +21,3 @@ Therefore, we are kind enough to offer you the bottle for 10 Eur tomorrow at the
 
 See you at the party! We are completely flipping out about it!
 
-![](/uploads/versions/giphy-2---x----480-270x---.gif)
