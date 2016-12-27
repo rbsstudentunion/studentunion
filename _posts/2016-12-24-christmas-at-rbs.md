@@ -1,6 +1,6 @@
 ---
 title: Last hours of Bottle preorders!
-date: 2016-12-24 12:00:00 
+date: 2016-12-24 12:00:00 Z
 tags:
 - Events
 layout: post
