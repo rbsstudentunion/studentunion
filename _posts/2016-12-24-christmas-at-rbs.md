@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: Christmas at RBS
-date: 2016-12-24 12:00:00 
-=======
-title: Last hours of Bottle preorders!
 date: 2016-12-24 12:00:00 Z
->>>>>>> origin/master
 tags:
 - Events
 layout: post
