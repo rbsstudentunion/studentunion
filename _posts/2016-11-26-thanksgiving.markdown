@@ -14,7 +14,7 @@ Thanks you Daniels Neguliners for saving these moments.
 Until next year!
 
 <!--START JUICEBOX EMBED-->
-<script src="jbcore/juicebox.js"></script>
+<script src="{{ site.baseurl }}/jbcore/juicebox.js"></script>
 <script>
 new juicebox({
 containerId: "juicebox-container",
