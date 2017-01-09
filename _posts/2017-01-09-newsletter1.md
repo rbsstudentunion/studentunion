@@ -12,9 +12,7 @@ Externally view or download the newsletter <a href="https://www.docdroid.net/TDl
 
 <div style="height: 90vh; width: 100%">
 
-<iframe src="https://drive.google.com/file/d/0B9GXqixs5SJ_aXg0Q29JSVI3eWc/view" 
- style="width: 100%; height: 100%;" frameborder="0"></iframe>
-
+<iframe src="https://drive.google.com/file/d/0B9GXqixs5SJ_aXg0Q29JSVI3eWc/preview" width="100%" height="100%"></iframe>
 
 </div>
 
