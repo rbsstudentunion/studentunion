@@ -16,19 +16,3 @@ Externally view or download the newsletter <a href="https://www.docdroid.net/TDl
 
 </div>
 
-<div style="height: 20px;"></div>
-
-<div style="height: 90vh; width: 100%">
-
-<object data="{{ site.baseurl }}/img/post/newsletter1.pdf" type="application/pdf" width="100%" height="100%">
-  alt : <a href="{{ site.baseurl }}/img/post/newsletter1.pdf">test.pdf</a>
-</object>
-
-
-</div>
-
-<div style="height: 20px;"></div>
-
-<div style="height: 90vh; width: 100%">
-<iframe width="100%" height="100%" src="https://www.yumpu.com/en/embed/view/urolMD7hKBq1N8Te" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
-</div>
