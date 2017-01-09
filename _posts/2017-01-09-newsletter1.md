@@ -9,7 +9,7 @@ layout: post
 It is a new semester and everyone's schedules are about to be filled more than a gym straight after New Year. With the structure in place, one of the Student Union's resolutions is working on improving the transparency of the organisation. We wanted to look back at last semester and see what has been accomplished by us. Furthermore, we want to inform you on our current plans for the future, and we want to make regular updates on what we are doing. This is the first newsletter of the Student Union of Riga Business School with many more to come.
 
 
-<img src="{{ site.baseurl }}/img/bc1.jpg" alt="bonding camp" title="bonding camp" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/bc1.jpg" alt="bonding camp" title="bonding camp" style="width: 100%">
 
 (*calm before the storm*)
 
@@ -26,7 +26,7 @@ Three days of fun, joy, and some sports also went by everyone very swiftly. We w
 
 
 
-<img src="{{ site.baseurl }}/img/bc2.jpg" alt="bonding camp" title="bonding camp" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/bc2.jpg" alt="bonding camp" title="bonding camp" style="width: 100%">
 
 (*everyone left with happy faces*)
 
@@ -38,7 +38,7 @@ After welcoming the newest faces in RBS, we started our studies. After a not so 
 
 
 
-<img src="{{ site.baseurl }}/img/om1.jpg" alt="open meetings" title="open meetings" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/om1.jpg" alt="open meetings" title="open meetings" style="width: 100%">
 
 (*first open meetings were a success with much initiative taken from the students*)
 
@@ -66,7 +66,7 @@ At the beginning of October, our own Santa from group of people who are working 
 
 
 
-<img src="{{ site.baseurl }}/img/sp1.jpg" alt="Oslo" title="Oslo" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/sp1.jpg" alt="Oslo" title="Oslo" style="width: 100%">
 
 (Photo credit: santa_paegle on Instagram)
 
@@ -80,7 +80,7 @@ The Elections of 2016 and the Olympics against SSE Riga.
 
 
 
-<img src="{{ site.baseurl }}/img/og1.jpg" alt="Olympics" title="Olympics" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/og1.jpg" alt="Olympics" title="Olympics" style="width: 100%">
 
 (*Will Šmits make us proud or drown?*)
 
@@ -90,7 +90,7 @@ First and foremost - the games would be nothing without our own Romāns Galaiko 
 
 
 
-<img src="{{ site.baseurl }}/img/og2.jpg" alt="Olympics" title="Olympics" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/og2.jpg" alt="Olympics" title="Olympics" style="width: 100%">
 
 (*Romāns making the most out of the game*)
 
@@ -104,7 +104,7 @@ Most importantly, we all had a great time while we were at it.
 
 
 
-<img src="{{ site.baseurl }}/img/og3.jpg" alt="Olympics" title="Olympics" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/og3.jpg" alt="Olympics" title="Olympics" style="width: 100%">
 
 (*A happy team at the end of the Games*)
 
@@ -122,7 +122,7 @@ As a new tradition, also livestreamed and hosted by the man himself - Romāns, t
 
 
 
-<img src="{{ site.baseurl }}/img/e1.jpg" alt="Elections" title="Elections" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/e1.jpg" alt="Elections" title="Elections" style="width: 100%">
 
 (*The old and new boards*)
 
@@ -186,7 +186,7 @@ For the presidential couple, the first two months were full of ambitious plannin
 
 
 
-<img src="{{ site.baseurl }}/img/b2.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b2.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our president - Anris, a man of the people*)
 
@@ -214,7 +214,7 @@ Moreover, he states, "I can proudly mention that the Student Union finally has s
 
 
 
-<img src="{{ site.baseurl }}/img/b1.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b1.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our vice president - Artur, ready to make RBS Great Again*)
 
@@ -264,7 +264,7 @@ With the templates ready, they formed the main vision and guidelines for the fur
 
 
 
-<img src="{{ site.baseurl }}/img/w1.jpg" alt="Workshop" title="Workshop" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/w1.jpg" alt="Workshop" title="Workshop" style="width: 100%">
 
 (*External division filling the stomachs of our listeners*)
 
@@ -278,7 +278,7 @@ With the division's continuous efforts, they negotiated companies such as Pernes
 
 
 
-<img src="{{ site.baseurl }}/img/t1.jpg" alt="Tennis" title="Tennis" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/t1.jpg" alt="Tennis" title="Tennis" style="width: 100%">
 
 (*Our Head of Culture quenching his thirst*)
 
@@ -298,7 +298,7 @@ Furthermore, they started their negotiations with the possible general sponsor o
 
 
 
-<img src="{{ site.baseurl }}/img/b3.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b3.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our Head of the External division - Paula, ready for new challenges*)
 
@@ -360,7 +360,7 @@ The main event plan for which this division is preparing for is as following:
 
 
 
-<img src="{{ site.baseurl }}/img/w2.jpg" alt="Workshop" title="Workshop" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/w2.jpg" alt="Workshop" title="Workshop" style="width: 100%">
 
 (*Knowledge is power*)
 
@@ -380,7 +380,7 @@ The Culture division makes sure that RBS improves the lives of international stu
 
 
 
-<img src="{{ site.baseurl }}/img/b6.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b6.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our Head of the Culture division - Edvarts, bringing culture into our little family*)
 
@@ -394,7 +394,7 @@ RBS SU has been the key player in organizing Bachelor student social life during
 
 
 
-<img src="{{ site.baseurl }}/img/gtg1.jpg" alt="Get Together" title="Get Together" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/gtg1.jpg" alt="Get Together" title="Get Together" style="width: 100%">
 
 (*The beginning of our little BBA family*)
 
@@ -424,7 +424,7 @@ The Education division has always been like a dark horse in RBS.
 
 
 
-<img src="{{ site.baseurl }}/img/b4.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b4.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our Head of the Education division - Rolands, hearing out the students' pleas for help*)
 
@@ -448,7 +448,7 @@ The aim is to create the course both for beginners and students with more advanc
 
 
 
-<img src="{{ site.baseurl }}/img/chupagif.gif" alt="Cheers" title="Cheers" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/chupagif.gif" alt="Cheers" title="Cheers" style="width: 100%">
 
 (*everybody cheers*)
 
@@ -486,7 +486,7 @@ The final division that makes sure you reach us is the Public Relations division
 
 
 
-<img src="{{ site.baseurl }}/img/b5.jpg" alt="Board" title="Board" style="width: 100%">
+<img src="{{ site.baseurl }}/img/post/b5.jpg" alt="Board" title="Board" style="width: 100%">
 
 (*Our Head of the PR division - Pauls, making sure our visions are your future*)
 
