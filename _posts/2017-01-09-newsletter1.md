@@ -1,18 +1,10 @@
 ---
-
 title: Newsletter No.1 - New Year, New Us
-
 date: 2017-01-09 18:00:00 Z
-
 tags:
-
 - News
-
 layout: post
-
 ---
-
-
 
 <img src="{{ site.baseurl }}/img/news.jpg" alt="newsletter" title="newsletter" style="width: 100%">
 
