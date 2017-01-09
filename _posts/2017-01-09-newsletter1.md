@@ -6,6 +6,8 @@ tags:
 layout: post
 ---
 
+<img src="{{ site.baseurl }}/img/news.jpg" alt="newsletter" title="newsletter" style="width: 100%">
+
 It is a new semester and everyone's schedules are about to be filled more than a gym straight after New Year. With the structure in place, one of the Student Union's resolutions is working on improving the transparency of the organisation. We wanted to look back at last semester and see what has been accomplished by us. Furthermore, we want to inform you on our current plans for the future, and we want to make regular updates on what we are doing. This is the first newsletter of the Student Union of Riga Business School with many more to come.
 
 
