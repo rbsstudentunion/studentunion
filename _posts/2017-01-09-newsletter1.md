@@ -12,7 +12,11 @@ Externally view or download the newsletter <a href="https://www.docdroid.net/TDl
 
 <div style="height: 90vh; width: 100%">
 
-<embed src="{{ site.baseurl }}/img/post/newsletter1.pdf" width="100%" height="100%" />
+<object data="{{ site.baseurl }}/img/post/newsletter1.pdf" type="application/pdf" width="100%" height="100%">
+  alt : <a href="{{ site.baseurl }}/img/post/newsletter1.pdf">test.pdf</a>
+</object>
+
+
 </div>
 
 <div style="height: 90vh; width: 100%">
