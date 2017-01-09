@@ -516,10 +516,6 @@ Outside of our brand, we wanted to make sure that the companies we approach, see
 via GIPHY
 
 
-
-
-
-
 Finally, we had and still have two main goals our division sees. These are merchandise and the improvement of transparency. At the end of the year, with the initiative from the division we started the sales of the RBS bottle (*Which you can order either through Facebook or our website's Merchandise section*).
 
 
