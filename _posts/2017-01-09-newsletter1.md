@@ -6,7 +6,6 @@ tags:
 layout: post
 ---
 
-
 Externally view or download the newsletter <a href="https://www.docdroid.net/TDlMQsL/newsletter-1.pdf.html#page=2">HERE</a>.
 
 <div style="height: 20px;"></div>
