@@ -5,7 +5,9 @@ tags:
 - News
 layout: post
 ---
-
-<embed src="{{ site.baseurl }}/img/post/newsletter1.pdf" width="100%" height="auto" />
-
-<iframe width="100%" height="384px" src="https://www.yumpu.com/en/embed/view/urolMD7hKBq1N8Te" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+<div style="height: 80vh; width: 100%">
+<embed src="{{ site.baseurl }}/img/post/newsletter1.pdf" width="100%" height="100%" />
+</div>
+<div style="height: 80vh; width: 100%">
+<iframe width="100%" height="100%" src="https://www.yumpu.com/en/embed/view/urolMD7hKBq1N8Te" frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+</div>
