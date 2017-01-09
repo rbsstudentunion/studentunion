@@ -16,3 +16,10 @@ Externally view or download the newsletter <a href="https://www.docdroid.net/TDl
 
 </div>
 
+<div style="height: 20px;"></div>
+
+<div style="height: 90vh; width: 100%">
+
+<iframe width="100%" height="100%" src="https://www.docdroid.net/TDlMQsL/newsletter-1.pdf.html" frameborder="0" allowfullscreen></iframe>
+
+</div>
