@@ -1,31 +1,21 @@
 ---
-
 title: Newsletter No.1 - New Year, New Us
-
 date: 2017-01-09 18:00:00 Z
-
 tags:
-
 - News
-
 layout: post
-
 ---
-
 
 
 <img src="{{ site.baseurl }}/img/news.jpg" alt="newsletter" title="newsletter" style="width: 100%">
 
 
-
 It is a new semester and everyone's schedules are about to be filled more than a gym straight after New Year. With the structure in place, one of the Student Union's resolutions is working on improving the transparency of the organisation. We wanted to look back at last semester and see what has been accomplished by us. Furthermore, we want to inform you on our current plans for the future, and we want to make regular updates on what we are doing. This is the first newsletter of the Student Union of Riga Business School with many more to come.
-
 
 
 <img src="{{ site.baseurl }}/img/bc1.jpg" alt="bonding camp" title="bonding camp" style="width: 100%">
 
 (*calm before the storm*)
-
 
 
 We could say that the semester started with planning and making sure that the BBA5's have the time of their lives, of course right after a good morning run to wake up.
