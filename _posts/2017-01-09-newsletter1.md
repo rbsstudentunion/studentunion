@@ -5,6 +5,7 @@ tags:
 - News
 layout: post
 ---
+
 <div style="height: 80vh; width: 100%">
 <embed src="{{ site.baseurl }}/img/post/newsletter1.pdf" width="100%" height="100%" />
 </div>
