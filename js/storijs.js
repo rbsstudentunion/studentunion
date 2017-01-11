@@ -1,5 +1,5 @@
-var $slid = $('.slid');
-var $storijs = $('.storijs');
+var slid = .slid;
+var storijs = .storijs;
 
 $slid.on('click', function () {
 
