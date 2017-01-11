@@ -2,7 +2,7 @@
 
 
 
-('.slid').onclick = function() {
+document.getElementByClassName("slid").onclick = function() {
 	myFunction()};
 
 function myFunction() {
