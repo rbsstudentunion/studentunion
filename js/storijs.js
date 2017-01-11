@@ -5,10 +5,9 @@ $slid.on('click', function () {
 
 	$storijs.toggleClass('js-panel-open')
 });
+document.getElementById("virsraksts").onclick = function() {
+	myFunction()};
 
-
-<script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
+    document.getElementById("kontents").classList.toggle("para");
 }
-</script>
