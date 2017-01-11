@@ -35,7 +35,7 @@ var close = document.getElementById("close");
 var bigclose = document.getElementById("bigclose");
 // When the user clicks the button, open the modal 
 
-  document.getElementById("myBtn").onclick = function() {
+  btn.onclick = function() {
     modal.style.display = "block";
   }
 
