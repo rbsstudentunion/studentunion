@@ -27,9 +27,9 @@
 <p> under construction </p>
 <div class="pec"></div>
 
-<ul id="virsraksts" class="slid">
+<ul >
 {% for post in site.tags[page.tag] %}
-  <li >
+  <li id="virsraksts" class="slid">
     <h3 >{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</h3>
   </li>
   <div id="kontents" class="storijs">

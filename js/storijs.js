@@ -1,6 +1,6 @@
 
 
-document.getElementsByTagName("li").onclick = function() {
+document.getElementById("virsraksts").onclick = function() {
 	myFunction()};
 
 function myFunction() {
