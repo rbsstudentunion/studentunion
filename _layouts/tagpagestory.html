@@ -4,10 +4,6 @@
   {% include head.html %}
 
   <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM9W6SN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -34,9 +30,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul>
 {% for post in site.tags[page.tag] %}
   <li >
-    <a id="virsraksts" class="slid">{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</a>
+    <h2 id="virsraksts" class="slid">{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</h2>
   </li>
-  <div id="kontents" class="storijs" style="height: 25px;">
+  <div id="kontents" class="storijs">
   {{ post.content }}
   </div>
 {% endfor %}
