@@ -1,5 +1,8 @@
 
-document.getElementById("virsraksts").onclick = function() {
+
+
+
+(".slid").onclick = function() {
 	myFunction()};
 
 function myFunction() {
