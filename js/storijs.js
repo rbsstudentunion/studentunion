@@ -2,7 +2,7 @@
 
 
 
-(".slid").onclick = function() {
+('.slid').onclick = function() {
 	myFunction()};
 
 function myFunction() {
