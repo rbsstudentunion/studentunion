@@ -1,6 +1,6 @@
 
 
-document.querySelectorAll("slid").onclick = function() {
+document.getElementsByTagName("li").onclick = function() {
 	myFunction()};
 
 function myFunction() {
