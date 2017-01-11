@@ -33,8 +33,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <ul>
 {% for post in site.tags[page.tag] %}
-  <li  id="virsraksts" class="slid">
-    {{ post.date | date: "%B %d, %Y" }}: <a onclick="myFunction()">{{ post.title }}</a>
+  <li >
+    <a id="virsraksts" class="slid">{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</a>
   </li>
   <div id="kontents" class="storijs" style="height: 25px;">
   {{ post.content }}
