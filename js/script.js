@@ -27,7 +27,6 @@ $(window).scroll(function() {
 var modal = document.getElementById('myModal');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn");
 
 // Get the <span> element that closes the modal
 var close = document.getElementById("close");
@@ -35,7 +34,7 @@ var close = document.getElementById("close");
 var bigclose = document.getElementById("bigclose");
 // When the user clicks the button, open the modal 
 
-  btn.onclick = function() {
+  document.getElementById("myBtn").onclick = function() {
     modal.style.display = "block";
   }
 
