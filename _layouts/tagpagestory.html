@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM9W6SN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        
+<div class="header-bar">
+  <h1><a href="http://studentunion.co"><img src="{{ site.baseurl }}/img/logo.png" class="logo"></h1>
+  
+</div>
+
+<div class="smooth" style="height: 56px;">
+ {% include header.html %}
+</div>
+
+<main>
+
+<div class="pirms"></div>
+
+    <h1 class="cat">{{ page.tag }}</h1>
+
+<div class="pec"></div>
+
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li  class="slid">
+    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  </li>
+  <div class="storijs" style="height: 25px;">
+
+  </div>
+{% endfor %}
+</ul>
+
+    </main>
+
+
+
+
+
+
+
+      </div>
+    </div>
+
+{% include footer.html %}
+  </body>
+
+</html>
+
