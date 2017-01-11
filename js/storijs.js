@@ -2,9 +2,9 @@
 
 var ul = document.getElementById('virsraksts');
 
-ul.addEventListener('click', function(e) {
-    if (e.target.tagName === 'LI'){
-      document.getElementById("kontents").classList.toggle("para");
+ul.addEventListener('click', function() {
+    function myFunction() {
+    document.getElementById("kontents").classList.toggle("para");
     }
 });
 
