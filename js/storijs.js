@@ -1,8 +1,9 @@
 
-var elements = document.getElementsByTagName('li')
-for(var i=0;i<elements.length;i++)
-	elements[i].onclick = myFunction;
-  
- function myFunction(e) {
- 	this.classList.toggle('para');
+
+document.getElementById("virsraksts").onclick = function() {
+	myFunction()};
+
+function myFunction() {
+    document.getElementById("kontents").classList.toggle("para");
 }
+
