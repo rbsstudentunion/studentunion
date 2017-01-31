@@ -1,10 +1,11 @@
 ---
 title: Internship Workshop
-date: 2017-01-09 18:00:00 Z
+date: 2017-01-31 18:00:00
 tags:
-- News
+  - Events
 layout: post
 ---
+
 
 The internship workshop recently took place at RBS, where four students shared with their experiences regarding internships.
 
