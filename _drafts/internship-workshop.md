@@ -10,7 +10,7 @@ The internship workshop recently took place at RBS, where four students shared w
 
 See how it went!
 
-&lt;iframe width="100%" height="100%" src="https://www.youtube.com/embed/K_t3wA2dRPc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/K_t3wA2dRPc" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/j4XOvCTzSZ8" frameborder="0" allowfullscreen=""></iframe>
 
