@@ -8,6 +8,10 @@ layout: post
 
 Yesterday we had the second session of the sales course led by Artur. We want to inform you that the sessions will continue on February 13. You can see a short outline of the course below, as well, as the introduction lecture.
 
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZXgXv_z7PVA" frameborder="0" allowfullscreen></iframe>
+
+
 “Sell Yourself”
 
 Session I – Intro
