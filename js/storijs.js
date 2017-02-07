@@ -1,9 +1,3 @@
-
-
-document.getElementById("virsraksts").onclick = function() {
-	myFunction()};
-
-function myFunction() {
-    document.getElementById("kontents").classList.toggle("para");
-}
-
+$('.slid').click(function(){
+$(this).next().slideToggle();
+});
