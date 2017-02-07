@@ -30,7 +30,7 @@
 <ul >
 {% for post in site.tags[page.tag] %}
   <li id="virsraksts" class="slid">
-    <h3 style="font-weight: bold;">{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</h3>
+    <h3 style="font-weight: bold; cursor: pointer;">{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}</h3>
   </li>
   <div id="kontents" class="storijs">
     <div style="height:20px;"></div>
