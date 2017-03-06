@@ -1,5 +1,5 @@
 ---
-title: Newsletter No.1 - New Year, New Us
+title: Newsletter No.2 - Us Against the Midterms
 date: 2017-03-06 22:00:00 Z
 tags:
 - News
@@ -12,7 +12,7 @@ Externally view or download the newsletter <a href="https://www.docdroid.net/AP6
 
 <div style="height: 90vh; width: 100%">
 
-<iframe src="https://drive.google.com/drive/folders/0B9GXqixs5SJ_cHQxWWZGeXBuaHM" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/0B05eHT2IgpUkTkVpQ3RWYUN6M2M/preview" width="100%" height="100%"></iframe>
 
 </div>
 
