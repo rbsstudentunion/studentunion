@@ -1,114 +1,26 @@
-
-<!DOCTYPE html>
-<html>
-
-<head>
-
-
-  
-
-    <meta property="og:image" content="http://studentunion.co/img/fbmeta.jpg" />
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/img/favicon.png"/>
-<link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
-
-    <title>RBS Networking Dinner</title>
-    <meta name="description" content="{{ site.description }}">
-
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-89159400-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
- <script
-  src="https://code.jquery.com/jquery-3.1.1.js"
-  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
-  crossorigin="anonymous"></script>
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-</head>
-
-
-  <body>
+---
+title: Student Union of RBS
+layout: default
+---
 
 <div class="header-bar">
-  <h1><a href="http://studentunion.co"><img alt="RBS Student Union Logo" title="RBS Student Union Logo" src="img/logo.png" class="logo"></h1>
+  <h1><a href="http://studentunion.co"><img alt="RBS Student Union Logo" title="RBS Student Union Logo" src="{{ site.baseurl }}/img/logo.png" class="logo"></h1>
   
 </div>
 
 <div class="smooth" style="height: 56px;">
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger" style="vertical-align:middle; ">
-        <!-- {{ site.title }} instead of blog -->
-        <div class="linki">
-        <li class="dropdown" onclick="void(0)">
-    <a class="dropbtn">Categories</a>
-    <div class="dropdown-content">
-      <a href="{{ site.baseurl }}/tags/News/index.html" class="drops">News</a>
-      <a href="{{ site.baseurl }}/tags/Events/index.html" class="drops">Events</a>
-      <a href="{{ site.baseurl }}/tags/RBSStories/index.html" class="drops">RBS Stories</a>
-      <a href="{{ site.baseurl }}/tags/Informative/index.html" class="drops">Informative</a>
-      <a href="{{ site.baseurl }}/tags/Other/index.html" class="drops">Other</a>
-      </li>
-        <a class="dropbtn" href="{{ site.baseurl }}/merchandise.html">Merchandise</a>
-        <li class="dropdown" onclick="void(0)">
-    <a class="dropbtn">For Students</a>
-    <div class="dropdown-content">
-      <a href="{{ site.baseurl }}/calendar.html" class="drops" onclick="void(0)">Meeting Calendar</a>
-      <a href="{{ site.baseurl }}/timeline.html" class="drops">Event Timeline</a></li>
-        <li class="dropdown1">
-    <a class="dropbtn1" onclick="void(0)">For Companies</a>
-    <div class="dropdown-content1">
-      
-      <a href="{{ site.baseurl }}/proposal.html" class="drops">About RBS</a>
-      </li>
-
-        <li class="dropdown1" onclick="void(0)">
-    <a class="dropbtn1">About</a>
-    <div class="dropdown-content1">
-      <a href="{{ site.baseurl }}/about.html" class="drops">Who are we?</a>
-      <a href="{{ site.baseurl }}/board.html" class="drops">The Board</a>
-      <a href="{{ site.baseurl }}/contact.html" class="drops">Contact us</a>
-      </li>
-<script src="{{ site.baseurl }}/js/script.js"></script>
-
-        </div>
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
+ {% include header.html %}
 </div>
 
-
-    <div class="page-content">
-      <div class="wrapper">
-        <iframe src="https://studentunion12.wixsite.com/mysite"></iframe>
-      </div>
-    </div>
-
- <script src="{{ site.baseurl }}/js/script.js"></script>
-  </body>
-
-</html>
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
 
