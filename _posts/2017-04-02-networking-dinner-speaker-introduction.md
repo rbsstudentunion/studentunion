@@ -6,7 +6,7 @@ tags:
 layout: post
 ---
 
-https://www.youtube.com/watch?v=TVDH8HT_N2s
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/TVDH8HT_N2s" frameborder="0" allowfullscreen></iframe>
 
 Next week, long time strategic thinker, Zigurds Zakis will speak about Growing Wisely from his professional experience. See him in action in Gaismas Pils restorāns "Klīversala".
 
