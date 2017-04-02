@@ -1,12 +1,11 @@
 ---
 title: Networking Dinner Speaker Introduction
-date: 2017-04-02 20:00:00 Z
+date: 2017-04-02 20:00:00
 tags:
-- News
+  - News
 layout: post
 ---
 
-[https://www.youtube.com/watch?v=TVDH8HT_N2s](__notset__)
 
 Next week, long time strategic thinker, Zigurds Zakis will speak about Growing Wisely from his professional experience. See him in action in Gaismas Pils restorāns "Klīversala".
 
