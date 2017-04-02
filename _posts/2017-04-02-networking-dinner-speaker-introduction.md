@@ -1,11 +1,10 @@
 ---
 title: Networking Dinner Speaker Introduction
-date: 2017-04-02 20:00:00
+date: 2017-04-02 20:00:00 Z
 tags:
-  - News
+- News
 layout: post
 ---
-
 
 [https://www.youtube.com/watch?v=TVDH8HT_N2s](__notset__)
 
