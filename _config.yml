@@ -11,14 +11,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: studentunion@rbs.lv
+email: student.union@rbs.lv
 description: 'The Riga Business School Student Union stands for the interests of all
   RBS students. We build a community of leaders who leave a positive impact on society.
 
 '
 url: studentunion.co
 twitter_username: twitter_username
-github_username: github_username
+github_username: rbsstudentunion
 markdown: kramdown
 highlighter: rouge
 baseurl: 
