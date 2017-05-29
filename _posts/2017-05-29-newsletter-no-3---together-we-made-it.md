@@ -6,7 +6,8 @@ tags:
 layout: post
 ---
 
-Externally view or download the newsletter <a href="http://docdro.id/AWn3lPG">HERE</a>.
+
+Externally view or download the newsletter [HERE](http://docdro.id/AWn3lPG).
 
 <div style="height: 20px;"></div>
 
