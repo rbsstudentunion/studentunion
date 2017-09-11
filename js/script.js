@@ -91,18 +91,18 @@ function showSlides(n) {
 
 
 // Get the modal
-var modal = document.getElementById('myModal1');
+var modal1 = document.getElementById('myModal1');
 
 // Get the button that opens the modal
 
 // Get the <span> element that closes the modal
-var close = document.getElementById("close1");
+var close1 = document.getElementById("close1");
 
-var bigclose = document.getElementById("bigclose1");
+var bigclose1 = document.getElementById("bigclose1");
 // When the user clicks the button, open the modal 
 
   document.getElementById("myBtn1").onclick = function() {
-    modal.style.display = "block";
+    modal1.style.display = "block";
   }
 
 
@@ -110,18 +110,18 @@ var bigclose = document.getElementById("bigclose1");
 
 // When the user clicks on <span> (x), close the modal
 close.onclick = function() {
-    modal.style.display = "none";
+    modal1.style.display = "none";
 }
 
 bigclose.onclick = function() {
-    modal.style.display = "none";
+    modal1.style.display = "none";
 }
 
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal1) {
+        modal1.style.display = "none";
     }
 }
 
