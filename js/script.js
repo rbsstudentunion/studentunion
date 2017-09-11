@@ -87,8 +87,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
-//bilde merch beingas
-
+//bilde merch beigas
 
 // Get the modal
 var modal1 = document.getElementById('myModal1');
@@ -109,11 +108,11 @@ var bigclose1 = document.getElementById("bigclose1");
 
 
 // When the user clicks on <span> (x), close the modal
-close.onclick = function() {
+close1.onclick = function() {
     modal1.style.display = "none";
 }
 
-bigclose.onclick = function() {
+bigclose1.onclick = function() {
     modal1.style.display = "none";
 }
 
