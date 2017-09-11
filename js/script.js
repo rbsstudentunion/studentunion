@@ -96,9 +96,9 @@ var modal = document.getElementById('myModal1');
 // Get the button that opens the modal
 
 // Get the <span> element that closes the modal
-var close = document.getElementById("close");
+var close = document.getElementById("close1");
 
-var bigclose = document.getElementById("bigclose");
+var bigclose = document.getElementById("bigclose1");
 // When the user clicks the button, open the modal 
 
   document.getElementById("myBtn1").onclick = function() {
