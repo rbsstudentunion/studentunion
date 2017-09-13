@@ -26,8 +26,8 @@ $(window).scroll(function() {
 // Get the modal
 var modal = document.getElementById('myModal');
 
-var mercpic = document.getElementById("mercpic");
-var mercpic1 = document.getElementById("mercpic1");
+var merchpic = document.getElementById("merchpic");
+var merchpic1 = document.getElementById("merchpic1");
 // Get the button that opens the modal
 
 // Get the <span> element that closes the modal
@@ -36,9 +36,12 @@ var close = document.getElementById("close");
 var bigclose = document.getElementById("bigclose");
 // When the user clicks the button, open the modal 
 
-  document.getElementById("myBtn").onclick = function() {
+merchpic.onclick = function() {
     modal.style.display = "block";
-  }
+}
+merchpic1.onclick = function() {
+    modal.style.display = "block";
+}
 
 
 
@@ -96,13 +99,8 @@ var modal1 = document.getElementById('myModal1');
 
 // Get the button that opens the modal
 
-// Get the <span> element that closes the modal
-var close1 = document.getElementById("close1");
 
-var bigclose1 = document.getElementById("bigclose1");
-// When the user clicks the button, open the modal 
-
-  document.getElementById("merchpic").onclick = function() {
+  document.getElementById("merchpic1").onclick = function() {
     modal1.style.display = "block";
   }
 
