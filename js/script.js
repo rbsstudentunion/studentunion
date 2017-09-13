@@ -26,6 +26,8 @@ $(window).scroll(function() {
 // Get the modal
 var modal = document.getElementById('myModal');
 
+var mercpic = document.getElementById("mercpic");
+var mercpic1 = document.getElementById("mercpic1");
 // Get the button that opens the modal
 
 // Get the <span> element that closes the modal
