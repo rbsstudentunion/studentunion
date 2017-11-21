@@ -1,22 +1,29 @@
 ---
-title: RBS Stories - Guntars Reiss
-date: 2016-11-22 20:00:00 Z
+title: RBS Stories - Kārlis Krauklis
+date: 2017-05-10 20:00:00 Z
 tags:
 - RBS Stories
 layout: post
 ---
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/s960x960/12764559_863775207084924_3208991638315188483_o.jpg?oh=6457658aa3cc2e13db75e09880d1e96a&oe=59155D2A" class="img">
-
-They say winning is not everything. Is that true?
+<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18424144_1236590463136728_9171152435857186358_n.jpg?oh=712659f71c7f6f118ca215c3ac5af76b&oe=5AAAA347" class="img">
 
 
-"Winning is not everything. 
-Both - failure and success - are. 
-
-Even though failure is a great lesson, I prefer winning. If you win, it means you are either better or luckier than the opponent. And luck does not come just like that - you have to earn it."
+How to plan your time efficiently to succeed?
 
 
-- Guntars Reiss, 
+Working besides studying requires successful time management in order to succeed at both places simultaneously. Having a planner in your pocket and scheduling the activities helps to manage and understand where your precious moments are heading; however, one needs to estimate the time for each activity and to schedule time for interruptions.
 
-BBA student, Goalie at hockey club Kurbads
+
+Gather your thoughts every day to decide what are your goals and what exactly you want to achieve from each activity. Prepare for them beforehand. After examining the goals, prioritization should be done even you think that it is possible to get everything done.
+
+
+Learn to say NO, not only to home assignments or tasks at work, but also to your friends, Facebook, and Your smartphone, if that distracts you from your goal. Moreover, the ”Do not Disturb” sign on Skype, turing off Your phone, or not looking at your e-mail whenever something new appears can be beneficial.
+
+
+“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” – Abraham Lincoln
+
+
+-Kārlis Krauklis
+
+BBA4 student and Market Development support at Circle K Latvia
