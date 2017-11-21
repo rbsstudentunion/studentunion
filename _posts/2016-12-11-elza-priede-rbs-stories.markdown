@@ -6,7 +6,7 @@ tags:
 layout: post
 ---
 
-<img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/15380353_1085104278285348_7862457129402771836_n.jpg?oh=a795ec04ac39d8f724800434df4ae797&oe=58AF1B99" class="img" alt="RBS Stories Elza" title="RBS Stories Elza" >
+<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/15380353_1085104278285348_7862457129402771836_n.jpg?oh=1945d29b058c34020f603609ec718ab0&oe=5A89B799" class="img" alt="RBS Stories Elza" title="RBS Stories Elza" >
 
 How to stay positive during a stress-filled week of studies?
 
